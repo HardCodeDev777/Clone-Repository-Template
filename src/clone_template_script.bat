@@ -1,5 +1,4 @@
 @echo off
-chcp 65001 > nul
 
 set /p github_username="Your GitHub username: "
 set /p repo_name="Repository name: "
